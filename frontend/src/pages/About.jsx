@@ -20,14 +20,14 @@ const About = () => {
             )}
 
             <header className="about-header">
-                <h1>About CareerCraft</h1>
+                <h1>About VidyaMitra</h1>
                 <p>Your guide to navigating the future of tech careers.</p>
             </header>
 
             <section className="about-section application-info">
                 <h2>About the Application</h2>
                 <p>
-                    CareerCraft is designed to be your indispensable companion in exploring and advancing your career in the rapidly evolving tech industry. 
+                    VidyaMitra is designed to be your indispensable companion in exploring and advancing your career in the rapidly evolving tech industry. 
                     We provide comprehensive roadmaps, personalized skill development guides, a curated job portal, and invaluable mentorship opportunities. 
                     Our goal is to empower individuals with the knowledge and resources needed to build a successful and fulfilling career path.
                 </p>
@@ -99,7 +99,7 @@ const About = () => {
                         <a href="https://www.linkedin.com/in/harshitha-sudheer-6314651b1/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                     </div>
                     <p className="guide-description">
-                        Harshitha Sudheer provided invaluable guidance and strategic direction throughout the development of CareerCraft, 
+                        Harshitha Sudheer provided invaluable guidance and strategic direction throughout the development of VidyaMitra, 
                         ensuring its relevance and effectiveness in addressing real-world career challenges.
                     </p>
                 </div>

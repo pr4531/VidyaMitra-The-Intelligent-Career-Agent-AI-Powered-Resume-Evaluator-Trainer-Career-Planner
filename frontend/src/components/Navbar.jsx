@@ -9,7 +9,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-container">
         <NavLink to="/" className="navbar-logo">
-          CareerCraft
+          VidyaMitra
         </NavLink>
         <div className="navbar-links">
           <NavLink 
@@ -42,12 +42,7 @@ const Navbar = () => {
           >
             Find Jobs
           </NavLink>
-           <NavLink 
-            to="/mock-interview" 
-            className={({ isActive }) => (isActive ? 'nav-link active' : 'nav-link')}
-          >
-            Mock Interview
-          </NavLink>
+           
 
           {/* === NEW LINK ADDED HERE === */}
           <NavLink 

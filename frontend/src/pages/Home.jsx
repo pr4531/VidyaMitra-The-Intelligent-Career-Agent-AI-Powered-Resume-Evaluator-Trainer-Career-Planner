@@ -17,7 +17,7 @@ const Home = () => {
             Find Your Best Career Path with AI Personalized Roadmaps.
           </h1>
           <p className="hero-subtext">
-            CareerCraft intelligently analyzes your skills and aspirations to
+            VidyaMitra intelligently analyzes your skills and aspirations to
             illuminate your ideal tech journey. Start exploring possibilities
             today.
           </p>
@@ -47,7 +47,7 @@ const Home = () => {
 
       {/* 2. Features Section */}
       <section className="features-section">
-        <h2>Why CareerCraft?</h2>
+        <h2>Why VidyaMitra?</h2>
         <div className="features-grid">
           
           {/* 1️⃣ AI-Powered Recommendations */}

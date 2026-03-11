@@ -45,7 +45,7 @@ const Chatbot = () => {
             // We construct a simple prompt with context
             const prompt = `
                 You are a helpful and friendly career assistant for a website that provides career roadmaps.
-                Your name is CareerCraft AI.
+                Your name is VidyaMitra AI.
                 Keep your answers concise and encouraging.
 
                 Here is the current conversation:
@@ -87,7 +87,7 @@ const Chatbot = () => {
         <div className="chatbot-container">
             <div className={`chatbot-window ${isOpen ? 'open' : ''}`}>
                 <div className="chatbot-header">
-                    <h3>CareerCraft AI</h3>
+                    <h3>VidyaMitra AI</h3>
                     <button className="close-btn" onClick={toggleChatbot}>—</button>
                 </div>
                 <div className="chatbot-messages">
