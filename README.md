@@ -1,6 +1,6 @@
-### AI-Powered Career Path Recommendation (CareerCraft)
+### AI-Powered Career Path Recommendation (VidyaMitra)
 
-CareerCraft helps learners and career switchers choose and execute a tech career path with AI-guided roadmaps, curated resources, and a built-in assistant. The frontend is a React + Vite SPA with dozens of job-based and skill-based roadmaps, an assessment flow, resume builder entry point, mock interview page, and always-on chatbot support. A backend scaffold exists for future APIs.
+VidyaMitra helps learners and career switchers choose and execute a tech career path with AI-guided roadmaps, curated resources, and a built-in assistant. The frontend is a React + Vite SPA with dozens of job-based and skill-based roadmaps, an assessment flow, resume builder entry point, mock interview page, and always-on chatbot support. A backend scaffold exists for future APIs.
 
 #### Features
 - AI assistant and network-aware UI with chatbot and offline indicator
